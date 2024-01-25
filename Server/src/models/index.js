@@ -1,0 +1,12 @@
+module.exports.User = require("./user.model");
+module.exports.Cart = require("./cart.model");
+module.exports.Order = require("./order.model");
+module.exports.Token = require("./token.model");
+module.exports.Banner = require("./banner.model");
+module.exports.City = require("./city.model");
+module.exports.State = require("./state.model");
+module.exports.Country = require("./country.model");
+module.exports.Restaurant_type = require("./restaurant.type.model");
+module.exports.Restaurant = require("./restaurant.model");
+module.exports.Food = require("./food.model");
+module.exports.Admin = require("./admin.model");
