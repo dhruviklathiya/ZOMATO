@@ -2,7 +2,7 @@
 
 - - - Description
 
-This project is currently in progress. It aims to [briefly describe the main goal or purpose of the project].
+This project is currently in progress. It aims to build system of food order & delivery and restaurant dynamic table booking system.
 
 - - - Status
 
